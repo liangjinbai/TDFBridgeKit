@@ -1,0 +1,16 @@
+PODS:
+  - TDFBridgeKit (0.1.0)
+
+DEPENDENCIES:
+  - TDFBridgeKit (from `../`)
+
+EXTERNAL SOURCES:
+  TDFBridgeKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TDFBridgeKit: 696b4d521dce57d2c6392cf592edba4105964144
+
+PODFILE CHECKSUM: a797864bf64caa971ec3c5e1f75dba00f287e31c
+
+COCOAPODS: 1.5.3

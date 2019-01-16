@@ -1,0 +1,6 @@
+framework module TDFBridgeKit {
+  umbrella header "TDFBridgeKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

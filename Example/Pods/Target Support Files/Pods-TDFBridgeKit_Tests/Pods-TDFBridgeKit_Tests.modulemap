@@ -1,0 +1,6 @@
+framework module Pods_TDFBridgeKit_Tests {
+  umbrella header "Pods-TDFBridgeKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

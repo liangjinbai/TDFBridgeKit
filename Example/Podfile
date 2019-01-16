@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TDFBridgeKit_Tests' do
+  pod 'TDFBridgeKit', :path => '../'
+  
+  
+end
