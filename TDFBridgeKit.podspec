@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/liangjinbai/TDFBridgeKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'liangjinbai' => '295463048@qq.com' }
+  s.author           = { 'liangjinbai' => 'zhanghuiqiang@mockuai.com' }
   s.source           = { :git => 'https://github.com/liangjinbai/TDFBridgeKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
